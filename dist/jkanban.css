@@ -6,7 +6,6 @@
 
 .kanban-container * {
   box-sizing: border-box;
-  background : red;
 }
 
 .kanban-container:after {
@@ -18,7 +17,7 @@
 .kanban-board {
   position: relative;
   float: left;
-  background: #e2e4e6;
+  background: red;
   transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
 }
 
