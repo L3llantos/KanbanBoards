@@ -6,6 +6,7 @@
 
 .kanban-container * {
   box-sizing: border-box;
+  background : red;
 }
 
 .kanban-container:after {
